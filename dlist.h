@@ -1,4 +1,3 @@
-//#ifdef __QUECTEL_BCM_AT_CMD__
 //victor.chen
 
 
@@ -230,4 +229,3 @@ prefetch(pos-> member.next))
 
 
 
-//#endif
